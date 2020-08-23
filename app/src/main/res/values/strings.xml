@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Flashlight app</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="about">About</string>
+    <string name="about_dialog_title"> About Flashlight app</string>
+    <string name="about_dialog_banner"><![CDATA[Created by Elyahu J.\nEmail: elyahu41@gmail.com\n\nThank you to:\nTouro College\'s and Lander Colleges\' MCO451/521 Prof. Samuel Abrahamson for his teachings.]]></string>
+    <string name="title_activity_settings">Settings</string>
+
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <PreferenceCategory android:title="Background Color Settings" >
+        <ListPreference
+            android:defaultValue="#333232"
+            android:entries="@array/colorName"
+            android:entryValues="@array/colorCode"
+            android:key="background_color"
+            android:summary="Set background color of app"
+            android:title="Colors" />
+    </PreferenceCategory>
+</PreferenceScreen>

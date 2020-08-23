@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="colorName">
+            <item name="0">Grey(Default)</item>
+            <item name="1">Red</item>
+            <item name="2">Orange</item>
+            <item name="3">Yellow</item>
+            <item name="4">Green</item>
+            <item name="5">Blue(Light)</item>
+            <item name="6">Blue(Dark)</item>
+            <item name="7">Purple</item>
+            <item name="8">White</item>
+        </string-array>
+        <string-array name="colorCode">
+            <item name="0">#333232</item>
+            <item name="1">#CA1010</item>
+            <item name="2">#F17C0E</item>
+            <item name="3">#ffff33</item>
+            <item name="4">#12AE0D</item>
+            <item name="5">#2979FF</item>
+            <item name="6">#0923BA</item>
+            <item name="7">#6913A8</item>
+            <item name="8">#ffffff</item>
+        </string-array>
+</resources>
