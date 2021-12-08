@@ -35,7 +35,7 @@ import static com.example.flashlightapp.Utils.sREQUEST_CODE_SETTINGS;
 public class MainActivity extends AppCompatActivity {
 
     private final int CAMERA_REQUEST_CODE = 2;
-    boolean hasCameraFlash = false;
+    private boolean hasCameraFlash = false;
     private boolean isFlashOff = false;
     RelativeLayout background;
 
@@ -130,8 +130,7 @@ public class MainActivity extends AppCompatActivity {
         startActivityForResult (intent, sREQUEST_CODE_SETTINGS);
     }
 
-    public void showAbout (MenuItem item)
-    {
+    public void showAbout(MenuItem item) {
         Utils.showInfoDialog (MainActivity.this, R.string.about_dialog_title,
                 R.string.about_dialog_banner);
     }
