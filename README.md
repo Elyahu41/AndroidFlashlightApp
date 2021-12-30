@@ -7,3 +7,5 @@ Feel free to download the APK on the right of the page!
 Edit: Now you can download this app straight from the Google Play Store!
 
 https://play.google.com/store/apps/details?id=com.EJ.flashlightapp
+
+![alt text](https://play-lh.googleusercontent.com/3gBs6nU9mONTSW9koQ95x3zDuXgiIjaXxJIsE1_0NGEFmzm1Egb7ncTe8FA5DuQDHtSn=w720-h310-rw)
